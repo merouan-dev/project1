@@ -1,0 +1,13 @@
+[app]
+name = 'gitti'
+version = '0.1.3'
+
+[auth]
+enabled = false
+token = 'ccb46800532541ffca55134716020474'
+
+[repos]
+example = 'C:/xampp/htdocs/project1'
+
+
+
